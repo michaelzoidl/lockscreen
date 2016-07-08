@@ -1,12 +1,15 @@
 {
   "name": "lockscreen",
   "version": "1.0.0",
-  "description": "Lock the screen",
-  "main": "build/lockscreen.js",
+  "description": "Lock screen of your pc",
+  "main": "build/index.js",
+  "files": [
+    "build"
+  ],
   "scripts": {
     "babel-node": "babel-node --presets=es2015 --ignore='foo|bar|baz'",
     "test": "mocha test.js --compilers js:babel-register",
-    "build": "babel index.js --out-file lockscreen.js"
+    "build": "babel index.js --out-dir build"
   },
   "repository": {
     "type": "git",
