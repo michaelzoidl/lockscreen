@@ -11,7 +11,7 @@ $ npm install --save lockscreen
 
 ## Usage
 ```javascript
-import lockScreen from 'lockscreen';
+import lockscreen from 'lockscreen';
 
 // just lock the screen
 lockscreen();
