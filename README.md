@@ -34,6 +34,9 @@ lockscreen(() => {}, {
 Currently it supports macOS (tested on El Capitan v10.11.5)
 [Create a new issue if your OS is not supported](https://github.com/michaelzoidl/lockscreen/issues)
 
+## Related
+[michaelzoidl/lockscreen-cli](https://github.com/michaelzoidl/lockscreen-cli)
+
 ## Contribute
 ```
 # Clone Repo
