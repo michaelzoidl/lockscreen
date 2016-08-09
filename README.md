@@ -31,7 +31,11 @@ lockscreen(() => {}, {
 [Checkout the Wiki if you want to use `lockscreen` with ES5](https://github.com/michaelzoidl/lockscreen/wiki)
 
 ## Support
-Currently it supports macOS (tested on El Capitan v10.11.5)
+Currently it supports:
+- macOS (tested on El Capitan v10.11.5)
+- win32 _(thx [@michael8090](https://github.com/michael8090))_
+- linux (gnome / kde) _(thx [@michael8090](https://github.com/michael8090))_
+
 [Create a new issue if your OS is not supported](https://github.com/michaelzoidl/lockscreen/issues)
 
 ## Related
