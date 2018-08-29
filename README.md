@@ -1,9 +1,6 @@
 # Lockscreen
 > Lock screen of your pc
 
-[![Build Status](https://travis-ci.org/michaelzoidl/lockscreen.svg?branch=master)](https://travis-ci.org/michaelzoidl/lockscreen)
-[![devDependency Status](https://david-dm.org/michaelzoidl/lockscreen/dev-status.svg)](https://david-dm.org/michaelzoidl/lockscreen#info=devDependencies)
-
 ## Install
 ```
 $ npm install --save lockscreen
